@@ -82,7 +82,7 @@
 <dependency>
   <groupId>org.springframework.amqp</groupId>
   <artifactId>spring-amqp</artifactId>
-  <version>1.4.4.RELEASE</version><!-- https://www.cvedetails.com/cve/CVE-2016-2173/ -->
+  <version>2.1.4.RELEASE</version>
 </dependency>
 <dependency>
   <groupId>org.springframework</groupId>
